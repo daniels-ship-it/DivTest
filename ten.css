@@ -6,6 +6,10 @@
 
 body {
   background-color: black;
+  background-image: url('assets/logo_sample.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: transparent 30%;
   color: white;
   transition: background-color 0.3s ease, color 0.3s ease;
   background-position: top;
@@ -140,7 +144,7 @@ button:hover {
 
 footer {
   background-color: transparent;
-  color: black;
+  color: white transparent;
   text-align: center;
   padding: 10px;
   position: fixed;
