@@ -6,7 +6,6 @@
 
 body {
   background-color: black;
-  background-image: url('assets/logo_sample.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-image: transparent 30%;
@@ -129,14 +128,14 @@ button:hover {
 }
 
 .link_gambar3 :hover{
-  box-shadow: 0 2px 5px rgba(25,121,110,0.4);
+  box-shadow: 5px 5px 5px red;
   background-color: crimson;
   transition: all .5s ease-in-out;
   cursor: pointer;
 }
 
 .link_gambar4 :hover{
-  box-shadow: 0 2px 5px rgba(0,0,0,0.9);
+  box-shadow: 5px 5px 5px green;
   background-color: lightgreen;
   transition: all .5s ease-in-out;
   cursor: pointer;
